@@ -1,0 +1,23 @@
+{
+  "name": "petridish",
+  "version": "0.0.1",
+  "description": "humanize your application and its health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicrj23/petridish.git"
+  },
+  "keywords": [
+    "humanize",
+    "healthcheck"
+  ],
+  "author": "Ashish Ranjan <ashish.ranjan.cse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominicrj23/petridish/issues"
+  },
+  "homepage": "https://github.com/dominicrj23/petridish#readme"
+}
